@@ -1,0 +1,14 @@
+{
+  "images" : [
+    {
+      "filename" : "o'hang_logo_design (1).png",
+      "idiom" : "universal",
+      "platform" : "watchos",
+      "size" : "1024x1024"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
